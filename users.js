@@ -42,16 +42,16 @@
         "banned": "no"
     },
     {
-        "username": "lv88",
-        "password": "lv701",
-        "uuid": "07E0621_MC1E436720",
-        "banned": "yes"
+        "username": "cocopop",
+        "password": "coco92",
+        "uuid": "",
+        "banned": ""
     },
     {
-        "username": "raif8",
-        "password": "raif8!",
+        "username": "bezzboy",
+        "password": "9034",
         "uuid": "",
-        "banned": "yes"
+        "banned": ""
     },
     {
         "username": "9997",
