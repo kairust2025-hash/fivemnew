@@ -20,7 +20,7 @@
     {
         "username": "9022",
         "password": "9022",
-        "uuid": "",
+        "uuid": "54A9BCCD-809C-6F11-ABD6-00D861701742",
         "banned": "no"
     },
     {
