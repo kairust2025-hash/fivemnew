@@ -14,7 +14,7 @@
     {
         "username": "raif",
         "password": "raif",
-        "uuid": "4C4C4544-0042-3010-8036-B4C04F385032",
+        "uuid": "",
         "banned": "no"
     },
     {
