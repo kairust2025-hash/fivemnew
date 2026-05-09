@@ -12,25 +12,25 @@
         "banned": ""
     },
     {
-        "username": "fatdog",
-        "password": "coreymilkmouth",
+        "username": "raif",
+        "password": "raif",
         "uuid": "",
         "banned": "no"
     },
     {
-        "username": "1554",
-        "password": "bootynigga",
+        "username": "9022",
+        "password": "9022",
         "uuid": "",
         "banned": "no"
     },
     {
-        "username": "lootg",
-        "password": "lootg",
+        "username": "beanball",
+        "password": "beanball",
         "uuid": "",
         "banned": "no"
     },
     {
-        "username": "sidc",
+        "username": "beanbag94",
         "password": "gypsy7",
         "uuid": "",
         "banned": "no"
