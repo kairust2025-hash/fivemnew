@@ -70,5 +70,65 @@
         "password": "7779",
         "uuid": "",
         "banned": ""
+    },
+    {
+        "username": "lunarfox",
+        "password": "fox2024",
+        "uuid": "C1A45B29-9A77-4F22-91DD-8E1A4E210001",
+        "banned": "no"
+    },
+    {
+        "username": "maverick",
+        "password": "mavpass88",
+        "uuid": "",
+        "banned": "no"
+    },
+    {
+        "username": "pixelbyte",
+        "password": "pix3l",
+        "uuid": "77F1D920-6A3E-4C88-BF11-2DCC90001234",
+        "banned": "no"
+    },
+    {
+        "username": "stormy",
+        "password": "storm777",
+        "uuid": "",
+        "banned": ""
+    },
+    {
+        "username": "delta99",
+        "password": "delta99",
+        "uuid": "8D93AA20-1180-47AA-B9E2-7D1C0FF99881",
+        "banned": "yes"
+    },
+    {
+        "username": "cryptic",
+        "password": "hiddenkey",
+        "uuid": "",
+        "banned": "no"
+    },
+    {
+        "username": "nova",
+        "password": "nova!22",
+        "uuid": "AA1099EE-22FF-40A0-8123-7BB11AAACC55",
+        "banned": "no"
+    },
+    {
+        "username": "driftking",
+        "password": "drift000",
+        "uuid": "",
+        "banned": ""
+    },
+    {
+        "username": "echo",
+        "password": "echoecho",
+        "uuid": "3CC9F881-0A22-45B1-BC99-4411DD778800",
+        "banned": "no"
+    },
+    {
+        "username": "gypsy10",
+        "password": "mandyhead94",
+        "uuid": "",
+        "banned": "no"
     }
 ]
