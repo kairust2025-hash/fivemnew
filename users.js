@@ -120,9 +120,9 @@
         "banned": ""
     },
     {
-        "username": "echo",
-        "password": "echoecho",
-        "uuid": "3CC9F881-0A22-45B1-BC99-4411DD778800",
+        "username": "ellis",
+        "password": "ellis2303",
+        "uuid": "",
         "banned": "no"
     },
     {
