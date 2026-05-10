@@ -62,7 +62,7 @@
     {
         "username": "george",
         "password": "george2323",
-        "uuid": "",
+        "uuid": "03560274-043C-0541-0306-FB0700080009",
         "banned": "no"
     },
     {
