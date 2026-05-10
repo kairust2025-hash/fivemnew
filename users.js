@@ -128,7 +128,7 @@
     {
         "username": "gypsy10",
         "password": "mandyhead94",
-        "uuid": "",
+        "uuid": "4012529C-A139-3BC7-CEA2-A85E45A7CF48",
         "banned": "no"
     }
 ]
