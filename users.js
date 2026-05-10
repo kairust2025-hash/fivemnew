@@ -60,15 +60,15 @@
         "banned": "yes"
     },
     {
-        "username": "mkay",
-        "password": "mkay200!",
+        "username": "george",
+        "password": "george2323",
         "uuid": "",
-        "banned": "yes"
+        "banned": "no"
     },
     {
         "username": "9997",
         "password": "7779",
         "uuid": "",
-        "banned": "yes"
+        "banned": ""
     }
 ]
