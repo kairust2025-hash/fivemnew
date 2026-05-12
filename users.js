@@ -3,55 +3,55 @@
         "username": "axisowner",
         "password": "axis2001",
         "uuid": "0154305E-4AF3-C1A0-4855-A036BCBAD14B",
-        "banned": "no"
+        "banned": "yes"
     },
     {
         "username": "toby",
         "password": "toby90!",
         "uuid": "",
-        "banned": ""
+        "banned": "yes"
     },
     {
         "username": "raif",
         "password": "raif",
         "uuid": "",
-        "banned": "no"
+        "banned": "yes"
     },
     {
         "username": "9022",
         "password": "9022",
         "uuid": "54A9BCCD-809C-6F11-ABD6-00D861701742",
-        "banned": "no"
+        "banned": "yes"
     },
     {
         "username": "beanball",
         "password": "beanball",
         "uuid": "",
-        "banned": "no"
+        "banned": "yes"
     },
     {
         "username": "beanbag94",
         "password": "gypsy7",
         "uuid": "",
-        "banned": "no"
+        "banned": "yes"
     },
     {
         "username": "fill",
         "password": "fillcmg",
         "uuid": "07D9840_O81E026447",
-        "banned": "no"
+        "banned": "yes"
     },
     {
         "username": "cocopop",
         "password": "coco92",
         "uuid": "",
-        "banned": ""
+        "banned": "yes"
     },
     {
         "username": "bezzboy",
         "password": "9034",
         "uuid": "",
-        "banned": ""
+        "banned": "yes"
     },
     {
         "username": "9997",
@@ -63,37 +63,37 @@
         "username": "george",
         "password": "george2323",
         "uuid": "03560274-043C-0541-0306-FB0700080009",
-        "banned": "no"
+        "banned": "yes"
     },
     {
         "username": "9997",
         "password": "7779",
         "uuid": "",
-        "banned": ""
+        "banned": "yes"
     },
     {
         "username": "lunarfox",
         "password": "fox2024",
         "uuid": "C1A45B29-9A77-4F22-91DD-8E1A4E210001",
-        "banned": "no"
+        "banned": "yes"
     },
     {
         "username": "maverick",
         "password": "mavpass88",
         "uuid": "",
-        "banned": "no"
+        "banned": "yes"
     },
     {
         "username": "pixelbyte",
         "password": "pix3l",
         "uuid": "77F1D920-6A3E-4C88-BF11-2DCC90001234",
-        "banned": "no"
+        "banned": "yes"
     },
     {
         "username": "stormy",
         "password": "storm777",
         "uuid": "",
-        "banned": ""
+        "banned": "yes"
     },
     {
         "username": "delta99",
@@ -105,30 +105,30 @@
         "username": "cryptic",
         "password": "hiddenkey",
         "uuid": "",
-        "banned": "no"
+        "banned": "yes"
     },
     {
         "username": "nova",
         "password": "nova!22",
         "uuid": "AA1099EE-22FF-40A0-8123-7BB11AAACC55",
-        "banned": "no"
+        "banned": "yes"
     },
     {
         "username": "driftking",
         "password": "drift000",
         "uuid": "",
-        "banned": ""
+        "banned": "yes"
     },
     {
         "username": "ellis",
         "password": "ellis2303",
         "uuid": "",
-        "banned": "no"
+        "banned": "yes"
     },
     {
         "username": "gypsy10",
         "password": "mandyhead94",
         "uuid": "4012529C-A139-3BC7-CEA2-A85E45A7CF48",
-        "banned": "no"
+        "banned": "yes"
     }
 ]
